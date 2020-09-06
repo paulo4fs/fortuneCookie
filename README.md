@@ -7,9 +7,11 @@ Project created during a course to have a basic understanding of React Native us
 // 1 - Git Clone
 
 // 2 - Installing the dependencies
-yarn install or npm install
+
+```yarn install``` or ```npm install```
 
 // 4 - Start your emulator
 
 // 5 - Run the application
-npx react-native run-android
+
+```npx react-native run-android```
