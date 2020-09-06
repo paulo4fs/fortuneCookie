@@ -1,7 +1,9 @@
-🚀 About the project
+## Fortune cookie App
+
+### 🍪 About the project
 Project create during a course to have a basic understanding of React Native using the Android Studio emulator.
 
-🏃 Installation
+### 🏃 Installation
 // 1 - Git Clone
 
 // 2 - Installing the dependencies
